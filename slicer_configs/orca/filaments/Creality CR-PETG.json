@@ -1,0 +1,34 @@
+{
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_density": [
+        "1.24"
+    ],
+    "filament_retraction_length": [
+        "1.4"
+    ],
+    "filament_settings_id": [
+        "Creality CR-PETG"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PETG @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality CR-PETG",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "slow_down_layer_time": [
+        "8"
+    ],
+    "version": "1.9.0.2"
+}

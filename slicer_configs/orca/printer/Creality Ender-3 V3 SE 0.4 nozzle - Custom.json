@@ -1,0 +1,39 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\n;G92 E0\nTIMELAPSE_TAKE_FRAME\n",
+    "deretraction_speed": [
+        "30"
+    ],
+    "from": "User",
+    "inherits": "Creality Ender-3 V3 KE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "PRINT_END",
+    "machine_max_acceleration_extruding": [
+        "10000",
+        "8000"
+    ],
+    "machine_max_acceleration_x": [
+        "10000",
+        "8000"
+    ],
+    "machine_max_acceleration_y": [
+        "10000",
+        "8000"
+    ],
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+    "name": "Creality Ender-3 V3 SE 0.4 nozzle - Custom",
+    "print_host": "klipper.local",
+    "printer_settings_id": "Creality Ender-3 V3 SE 0.4 nozzle - Custom",
+    "retract_before_wipe": [
+        "0%"
+    ],
+    "retraction_length": [
+        "0.8"
+    ],
+    "retraction_speed": [
+        "30"
+    ],
+    "version": "1.9.0.2",
+    "z_hop": [
+        "0.2"
+    ]
+}

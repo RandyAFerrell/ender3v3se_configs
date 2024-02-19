@@ -1,0 +1,22 @@
+{
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA High Speed @Ender-3V3-all - Copy"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Creality Generic PLA High Speed @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA High Speed @Ender-3V3-all - Copy",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "version": "1.9.0.2"
+}
